@@ -24,5 +24,3 @@ spark = SparkSession.builder \
 
 # Create PySpark DataFrame from Pandas
 df = spark.createDataFrame(data_frame)
-
-
